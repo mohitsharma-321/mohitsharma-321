@@ -10,6 +10,10 @@ Software Engineer | Java Backend | Building Scalable Solutions
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=mohitsharma-321&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohitsharma-321&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mohitsharma-321&show_icons=true&theme=dark&hide_border=false&count_private=true)
+![snake gif](https://github.com/mohitsharma-321/mohitsharma-321/blob/output/github-snake-dark.svg)
+![](https://github-readme-activity-graph.vercel.app/graph?username=mohitsharma-321&theme=github-dark)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
